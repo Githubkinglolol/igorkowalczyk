@@ -1,7 +1,7 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 ## Hi! I'm Igor Kowalczyk <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
 
-[![Discord profile](https://discord.c99.nl/widget/theme-3/440200028292907048.png)](https://discord.com/users/462411380318928896)
+[![Discord profile](https://discord.c99.nl/widget/theme-3/662522464236077076.png)](https://discord.com/users/662522464236077076)
 
 This is the place where I opensource stuff and break things :rofl:
 
